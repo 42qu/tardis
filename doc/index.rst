@@ -11,7 +11,7 @@
 文档代码 : `Github <https://github.com/42qu/tardis>`_
 
 
-相关资料: `REST简明教程 <http://book.42qu.com/rst.html>`_
+相关资料 : `REST简明教程 <http://book.42qu.com/rst.html>`_
 
 .. toctree::
    :glob:
