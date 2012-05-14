@@ -12,10 +12,9 @@
 
 文档代码 : `Github <https://github.com/42qu/tardis>`_
 
-更多项目 : `42区漫游指南 <http://book.42qu.com/>`_
-
 相关资料 : `REST简明教程 <http://book.42qu.com/rst.html>`_
 
+更多项目 : `42区漫游指南 <http://book.42qu.com/>`_
 
 
 .. toctree::
